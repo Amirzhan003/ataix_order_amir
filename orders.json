@@ -1,0 +1,71 @@
+[
+     {
+         "orderID": "TRX-USDT-1845657-1743748703764",
+         "status": "cancelled",
+         "price": "0.23",
+         "symbol": "TRX/USDT"
+     },
+     {
+         "orderID": "TRX-USDT-1845658-1743748704875",
+         "status": "cancelled",
+         "price": "0.23",
+         "symbol": "TRX/USDT"
+     },
+     {
+         "orderID": "TRX-USDT-1845659-1743748706587",
+         "status": "cancelled",
+         "price": "0.22",
+         "symbol": "TRX/USDT"
+     },
+     {
+         "orderID": "TRX-USDT-1846576-1743749148230",
+         "userId": "67992ee292e3864b565e514b",
+         "side": "buy",
+         "type": "limit",
+         "subType": "gtc",
+         "price": "0.23",
+         "averagePrice": "0",
+         "quantity": "1",
+         "cumQuantity": "0",
+         "cumQuoteQuantity": "0",
+         "cumCommission": "0",
+         "symbol": "TRX/USDT",
+         "status": "new",
+         "created": "2025-04-04T06:45:48.231Z",
+         "updated": "2025-04-04T06:45:48.235Z"
+     },
+     {
+         "orderID": "TRX-USDT-1846577-1743749148666",
+         "userId": "67992ee292e3864b565e514b",
+         "side": "buy",
+         "type": "limit",
+         "subType": "gtc",
+         "price": "0.23",
+         "averagePrice": "0",
+         "quantity": "1",
+         "cumQuantity": "0",
+         "cumQuoteQuantity": "0",
+         "cumCommission": "0",
+         "symbol": "TRX/USDT",
+         "status": "new",
+         "created": "2025-04-04T06:45:48.666Z",
+         "updated": "2025-04-04T06:45:48.670Z"
+     },
+     {
+         "orderID": "TRX-USDT-1846578-1743749149087",
+         "userId": "67992ee292e3864b565e514b",
+         "side": "buy",
+         "type": "limit",
+         "subType": "gtc",
+         "price": "0.22",
+         "averagePrice": "0",
+         "quantity": "1",
+         "cumQuantity": "0",
+         "cumQuoteQuantity": "0",
+         "cumCommission": "0",
+         "symbol": "TRX/USDT",
+         "status": "new",
+         "created": "2025-04-04T06:45:49.088Z",
+         "updated": "2025-04-04T06:45:49.092Z"
+     }
+ ]
